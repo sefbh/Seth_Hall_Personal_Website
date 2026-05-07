@@ -87,7 +87,7 @@ This was a group sports analytics project where we built models to predict three
 **Date:** February 2026\
 **Tags:** `Python` `Deep Learning` `Sequence Modeling` `Time Series` `Neural Networks` `RNN` `LSTM` `GRU` `Healthcare`
 
-This project focused on classifying heartbeat signals from the MIT-BIH arrhythmia dataset using sequence models. We worked with ECG data where each heartbeat was represented as a sequence of values, and the goal was to predict the type of heartbeat as accurately as possible. To do this, we trained and compared models like RNNs, LSTMs, and GRUs in PyTorch, and evaluated them using measures such as accuracy, F1 score, AUC, and confusion matrices. The project helped show how sequence models can be used on real medical data, and it gave us practice with training deep learning models, tuning them, and interpreting how well they performed..
+This project focused on classifying heartbeat signals from the MIT-BIH arrhythmia dataset using sequence models. We worked with ECG data where each heartbeat was represented as a sequence of values, and the goal was to predict the type of heartbeat as accurately as possible. To do this, we trained and compared models like RNNs, LSTMs, and GRUs in PyTorch, and evaluated them using measures such as accuracy, F1 score, AUC, and confusion matrices. The project helped show how sequence models can be used on real medical data, and it gave us practice with training deep learning models, tuning them, and interpreting how well they performed.
 
 <iframe src="Seth Hall - Heartbeat Classification using Sequence Models.html" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;">
 
@@ -98,3 +98,78 @@ This project focused on classifying heartbeat signals from the MIT-BIH arrhythmi
 [⬇ Download HTML](✏️%20Seth Hall - Heartbeat Classification using Sequence Models.html)
 
 ------------------------------------------------------------------------
+
+<!-- ============================================================
+  PROJECT 4
+  ✏️ Same structure — delete this block entirely if you only have 2 projects
+============================================================ -->
+
+## Biomedical Knowledge Graph Triplet Extraction from PubMed Sentences
+
+**Course:** Deep Learning Methods for Biomedical Applications with PyTorch\
+**Date:** May 2026\
+**Tags:** `Python` `PyTorch` `Deep Learning` `Biomedical` `Healthcare` `AI` `Knowledge Graphs` `Transformers` `Machine Learning` `Data Science`
+
+For this project, I built a biomedical NLP pipeline to extract subject-relation-object triplets from PubMed-style sentences using two annotated datasets: ADKG, focused on Alzheimer’s disease, and MDKG, focused on mental disorders. I started with exploratory data analysis to understand entity types, relation types, sentence density, and relation distance, then converted the raw annotations into model-ready formats. For the main model, I trained and evaluated a SpERT baseline for named entity recognition and relation extraction. For the extension, I fine-tuned a T5-small generative model to produce biomedical triplets directly as text and compared strict vs. relaxed triplet matching. This project helped me practice deep learning, biomedical NLP, model evaluation, error analysis, and building an end-to-end machine learning workflow from raw data to final results.
+
+<iframe src="Seth Hall - Biomedical Knowledge Graph Triplet Extraction from PubMed Sentences.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;">
+
+<p>Your browser can't preview PDFs. <a href="Seth Hall - Biomedical Knowledge Graph Triplet Extraction from PubMed Sentences.pdf">Click here to download instead.</a></p>
+
+</iframe>
+
+[⬇ Download PDF](✏️%20Seth Hall - Biomedical Knowledge Graph Triplet Extraction from PubMed Sentences.pdf)
+
+<iframe src="Seth Hall - BIOS 740 Final Presentation.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;">
+
+<p>Your browser can't preview PDFs. <a href="Seth Hall - BIOS 740 Final Presentation.pdf">Click here to download instead.</a></p>
+
+</iframe>
+
+[⬇ Download PDF](✏️%20Seth Hall - BIOS 740 Final Presentation.pdf)
+
+------------------------------------------------------------------------
+
+<!-- ============================================================
+  PROJECT 5
+  ✏️ Same structure — delete this block entirely if you only have 2 projects
+============================================================ -->
+
+## Shifting Attitudes Toward Vaccines on Twitter During COVID-19
+
+**Course:** Textual Data Analysis in R\
+**Date:** April 2026\
+**Tags:** `R` `Text Analysis` `Sentiment Analysis` `Social Media` `Public Health` `Data Cleaning` `Data Visualization` `NLP` `Research Project` `Data Science`
+
+In this group research project, we studied how vaccine-related sentiment changed on Twitter during 2021 of the COVID-19 pandemic. We worked with a large public tweet dataset and cleaned the data in R by filtering for vaccine-related posts, removing duplicates, retweets, and spam-like content, and keeping key variables such as date, follower count, and retweet count. We then used a customized AFINN sentiment dictionary with added vaccine-specific terms to measure tweet sentiment over time. Our analysis showed that positive tweets were more common than negative tweets overall, and sentiment did not become steadily more negative over the year. We also looked at tweet volume over time and tested whether sentiment was related to follower count or retweet count. This project helped me build experience in data cleaning, text analysis, sentiment scoring, and presenting findings through written reports and visualizations.
+
+<iframe src="Shifting Attitudes Toward Vaccines During 2021 of the COVID-19 Pandemic.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;">
+
+<p>Your browser can't preview PDFs. <a href="Shifting Attitudes Toward Vaccines During 2021 of the COVID-19 Pandemic.pdf">Click here to download instead.</a></p>
+
+</iframe>
+
+[⬇ Download PDF](✏️%20Shifting Attitudes Toward Vaccines During 2021 of the COVID-19 Pandemic.pdf)
+
+------------------------------------------------------------------------
+
+<!-- ============================================================
+  PROJECT 6
+  ✏️ Same structure — delete this block entirely if you only have 2 projects
+============================================================ -->
+
+## Understanding Offensive Success in NCAA Lacrosse Through Possession-Level Analysis
+
+**Course:** Sports Analytics\
+**Date:** April 2026\
+**Tags:** `R` `Sports Analytics` `Data Analysis` `Statistical Modeling` `Logistic Regression` `Data Cleaning` `Data Visualization` `Hypothesis Testing` `Research Project` `Data Science`
+
+In this project, my group and I collected and analyzed 205 NCAA lacrosse possessions to study what makes an offense more likely to create a shot or score. Instead of only using box score stats, we tracked possession-level details like how the possession started, time in transition, time on offense, passes, dodges, shot type, and shot location. We then used summary statistics, t-tests, chi-square tests, and logistic regression in R to find which possession features were most related to offensive success. One of our main findings was that possessions ending in a shot tended to involve more passes after the offense got settled and more dodges, while possessions with more transition passing were more likely to end in turnovers. We also found that shot location mattered more than shot type when looking at which shots became goals.
+
+<iframe src="Understanding Offensive Success in NCAA Lacrosse Through Possession-Level Analysis.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 4px;">
+
+<p>Your browser can't preview PDFs. <a href="Understanding Offensive Success in NCAA Lacrosse Through Possession-Level Analysis.pdf">Click here to download instead.</a></p>
+
+</iframe>
+
+[⬇ Download PDF](✏️%20Understanding Offensive Success in NCAA Lacrosse Through Possession-Level Analysis.pdf)
