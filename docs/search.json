@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "proj.html",
-    "href": "proj.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Here you’ll find information about some of the projects I’ve completed across statistics, data science, machine learning, sports analytics, and related coursework. Together, they reflect both my technical growth and my interest in using data to solve meaningful problems."
-  },
-  {
-    "objectID": "aboutme.html",
-    "href": "aboutme.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I’m Seth Hall, a student at UNC Chapel Hill with strong interests in statistics, data science, and public health. I’m especially interested in using quantitative methods to better understand real-world problems and create work that is practical, meaningful, and grounded in impact. My academic and project experience has helped me build skills in statistical modeling, data analysis, machine learning, and programming, while also strengthening my ability to communicate technical ideas clearly.\nA major part of what drives me is the opportunity to apply those skills in areas connected to health, education, and community impact. I’m drawn to work that uses data not just to generate results, but to support better decisions, improve access, and address problems that affect people in tangible ways.\nOutside of that broader mission-driven work, I also have a personal interest in sports analytics. I enjoy exploring how data can be used to understand player and team performance, evaluate strategy, and make predictions in competitive settings. Through basketball-related projects, I’ve worked with data connected to NBA game outcomes and variables such as point spread, total points, and offensive rebounds. For me, sports analytics is an exciting way to keep building my technical skills while applying them to something I genuinely enjoy.\n\nResume\n\nTo view more information about my projects, please visit the Projects tab.\n\nContact Information:\n\nPersonal email: hall.seth.b@gmail.com\nUniversity email: sefbh@ad.unc.edu\nGitHub: sefbh\nLinkedIn: Seth Hall"
-  },
-  {
-    "objectID": "proj.html#project-title",
-    "href": "proj.html#project-title",
-    "title": "Projects",
-    "section": "✏️ Project Title",
-    "text": "✏️ Project Title\nCourse: ✏️ BIOL 201 — Cell Biology\nDate: ✏️ Fall 2025\nTags: ✏️ Research Lab Report Data Collection\n✏️ Description of your third project goes here.\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"✏️ example_report3.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n⬇ Download PDF"
-  },
-  {
-    "objectID": "proj.html#project-title-1",
-    "href": "proj.html#project-title-1",
-    "title": "Projects",
-    "section": "✏️ Project Title",
-    "text": "✏️ Project Title\nCourse: ✏️ BIOL 201 — Cell Biology\nDate: ✏️ Fall 2025\nTags: ✏️ Research Lab Report Data Collection\n✏️ Description of your third project goes here.\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"✏️ example_report3.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n⬇ Download PDF"
-  },
-  {
-    "objectID": "proj.html#project-title-2",
-    "href": "proj.html#project-title-2",
-    "title": "Projects",
-    "section": "✏️ Project Title",
-    "text": "✏️ Project Title\nCourse: ✏️ BIOL 201 — Cell Biology\nDate: ✏️ Fall 2025\nTags: ✏️ Research Lab Report Data Collection\n✏️ Description of your third project goes here.\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"✏️ example_report3.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n⬇ Download PDF"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Seth Hall’s Website",
@@ -42,18 +7,18 @@
     "text": "Welcome to my personal website! Here you will find information about me and my work. Feel free to explore using the navigation bar above.\n\nVisit the About Me tab to learn more about my background and how to get in touch.\nVisit the Projects tab to see examples of my work."
   },
   {
+    "objectID": "proj.html",
+    "href": "proj.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here you’ll find information about some of the projects I’ve completed across statistics, data science, machine learning, sports analytics, and related coursework. Together, they reflect both my technical growth and my interest in using data to solve meaningful problems."
+  },
+  {
     "objectID": "proj.html#bias-in-healthcare-algorithms",
     "href": "proj.html#bias-in-healthcare-algorithms",
     "title": "Projects",
     "section": "Bias in Healthcare Algorithms",
     "text": "Bias in Healthcare Algorithms\nIndependent research project\nDate: November 2024\nTags: R Data Analysis Visualization Healthcare Public Health Ethics Data Simulation Statistical Analysis Predictive Modeling Policy RStudio \nThis project looks at how healthcare algorithms can end up treating people unfairly, even when they are supposed to help improve care. I focused on a model that used past healthcare spending to predict patient needs, which can be a problem because spending does not always reflect how sick someone actually is. Using R, I built a simulation to recreate the bias in the model and then looked at fairness measures like statistical parity, equalized odds, and disparate impact to see how the model performed. My results showed that Black patients were more likely to be underrated by the system, which could lead to them getting less care than they need. Overall, the project was about showing why accuracy is not the only thing that matters when algorithms are used in healthcare.\n\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"Seth Hall - Bias in Healthcare Algorithms.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n\n⬇ Download PDF"
-  },
-  {
-    "objectID": "proj.html#section",
-    "href": "proj.html#section",
-    "title": "Projects",
-    "section": "",
-    "text": "Course: Sports Analytics\nDate: February 2026\nTags: Python Jupyter Notebook GitHub Sports Analytics Predictive Modeling Machine Learning Regression Feature Engineering Data Cleaning Time Series' 'Model Evaluation\nThis was a group sports analytics project where we built models to predict three NBA game outcomes: point spread, total points scored, and total offensive rebounds. We started by building a shared dataset that combined home and away team information into one row per game, then created pregame features based on things like team strength, recent form, pace, rest, shooting, and rebounding. We tested a mix of models, including linear models, ridge and lasso regression, random forest, XGBoost, neural networks, and Poisson regression, to see which ones gave the most accurate predictions without using any future information by mistake. A big part of the project was making sure the models only used information that would have been available before tipoff, so the predictions would be realistic. Overall, the project was about using data to better understand NBA games and build models that could make solid game predictions in a practical way..\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"Methodology for NBA Predictive Models for Spread, Total, and Offensive Rebounds (Games from March 14th to April 12th).pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n⬇ Download PDF"
   },
   {
     "objectID": "proj.html#forecasting-nba-regular-season-outcomes-spread-total-and-offensive-rebounds",
@@ -89,5 +54,12 @@
     "title": "Projects",
     "section": "Understanding Offensive Success in NCAA Lacrosse Through Possession-Level Analysis",
     "text": "Understanding Offensive Success in NCAA Lacrosse Through Possession-Level Analysis\nCourse: Sports Analytics\nDate: April 2026\nTags: R Sports Analytics Data Analysis Statistical Modeling Logistic Regression Data Cleaning Data Visualization Hypothesis Testing Research Project Data Science\nIn this project, my group and I collected and analyzed 205 NCAA lacrosse possessions to study what makes an offense more likely to create a shot or score. Instead of only using box score stats, we tracked possession-level details like how the possession started, time in transition, time on offense, passes, dodges, shot type, and shot location. We then used summary statistics, t-tests, chi-square tests, and logistic regression in R to find which possession features were most related to offensive success. One of our main findings was that possessions ending in a shot tended to involve more passes after the offense got settled and more dodges, while possessions with more transition passing were more likely to end in turnovers. We also found that shot location mattered more than shot type when looking at which shots became goals.\n\n&lt;p&gt;\nYour browser can’t preview PDFs. &lt;a href=\"Understanding Offensive Success in NCAA Lacrosse Through Possession-Level Analysis.pdf\"&gt;Click here to download instead.&lt;/a&gt;\n&lt;/p&gt;\n\n⬇ Download PDF"
+  },
+  {
+    "objectID": "aboutme.html",
+    "href": "aboutme.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m Seth Hall, a student at UNC Chapel Hill with strong interests in statistics, data science, and public health. I’m especially interested in using quantitative methods to better understand real-world problems and create work that is practical, meaningful, and grounded in impact. My academic and project experience has helped me build skills in statistical modeling, data analysis, machine learning, and programming, while also strengthening my ability to communicate technical ideas clearly.\nA major part of what drives me is the opportunity to apply those skills in areas connected to health, education, and community impact. I’m drawn to work that uses data not just to generate results, but to support better decisions, improve access, and address problems that affect people in tangible ways.\nOutside of that broader mission-driven work, I also have a personal interest in sports analytics. I enjoy exploring how data can be used to understand player and team performance, evaluate strategy, and make predictions in competitive settings. Through basketball-related projects, I’ve worked with data connected to NBA game outcomes and variables such as point spread, total points, and offensive rebounds. For me, sports analytics is an exciting way to keep building my technical skills while applying them to something I genuinely enjoy.\n\nResume\n\nTo view more information about my projects, please visit the Projects tab.\n\nContact Information:\n\nPersonal email: hall.seth.b@gmail.com\nUniversity email: sefbh@ad.unc.edu\nGitHub: sefbh\nLinkedIn: Seth Hall"
   }
 ]
